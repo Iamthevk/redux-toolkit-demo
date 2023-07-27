@@ -1,5 +1,5 @@
 import "./App.css";
-import ReducerBasics from "./useReducer";
+import ReducerBasics from "./useReducer/useReducer";
 function App() {
   return (
     <>
