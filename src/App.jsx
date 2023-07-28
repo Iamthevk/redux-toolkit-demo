@@ -1,10 +1,10 @@
 import "./App.css";
-import ReducerBasics from "./useReducer/useReducer";
+import Counter from "./redux/components/Counter";
 function App() {
   return (
     <>
       <h1>Vite + React-Redux</h1>
-      <ReducerBasics />
+      <Counter />
     </>
   );
 }
